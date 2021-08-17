@@ -1,3 +1,3 @@
 # css-intermediary
 
-Essas são algumas funções de css intermediário.
+Essas são algumas funções de CSS intermediário.
